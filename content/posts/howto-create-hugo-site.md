@@ -1,5 +1,5 @@
 ---
-title: "Hugoを用いたサイトの作り方"
+title: "Hugo + GitHub Pages を用いたサーバーレスな静的サイトの作り方 1"
 date: 2023-06-18T00:08:51+09:00
 tags: ["Hugo"]
 showToc: true
@@ -8,7 +8,7 @@ draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-# description: ""
+description: "gatsbyから乗り換えたら、記事の新規追加が劇的に楽になりました"
 ---
 
 ## 目標
@@ -24,7 +24,7 @@ UseHugoToc: true
 - https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 hugo公式ドキュメントを参考に。  
-噂に名高いGitHubActionsを初めて設定した。
+`GitHub Actions` を初めて設定した。
 
 - https://qiita.com/ysdyt/items/a581277dd1312a0e83c3
 

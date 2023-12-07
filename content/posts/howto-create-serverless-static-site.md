@@ -1,5 +1,5 @@
 ---
-title: "Hugo + GitHub Pages を用いたサーバーレスな静的サイトの作り方"
+title: "Hugo + GitHub Pages を用いたサーバーレスな静的サイトの作り方 2"
 date: 2023-06-20T16:00:29+09:00
 tags: ["Hugo","GitHub Pages"]
 showToc: true
@@ -8,20 +8,22 @@ draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-description: "記事の新規追加が劇的に楽になりました"
+description: "vercelの爆速には敵わないものの良い感じです"
 ---
+
+## 比較、後日メモ
 
 - Hugo + GitHub Pages + テキストメイン
 
-GitHubActionsの設定でつまずいたが、まあできた
+→GitHubActionsの設定でつまずいたが、まあできた
 
 - Hugo + vercel & テキストメイン
 
-爆速
+→爆速
 
-- Python Flask + vercel & 画像データ
+- Python Flask + vercel & 画像データ多め
 
-apiディレクトリすぐ満タンになる問題、htmlとmd増えるストレス
+→apiディレクトリすぐ満タンになる問題、htmlとmd増えるストレス
 
 - Gatsby ( + Gatsby cloud)
 
