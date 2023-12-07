@@ -1,6 +1,6 @@
 ---
 title: "readme"
-date: 2030-09-15T11:30:03+00:00
+date: 2023-09-15
 weight: 1
 # aliases: ["/first"]
 tags: [""]
@@ -27,7 +27,7 @@ UseHugoToc: true
 cover:
     image: "banner.jpg" # image path/url
     alt: "カバー画像" # alt text
-# caption: "<text>" # display caption under cover
+#    caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
