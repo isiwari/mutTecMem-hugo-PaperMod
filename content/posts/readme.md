@@ -1,39 +1,17 @@
 ---
 title: "readme"
-date: 2023-09-15
-weight: 1
-# aliases: ["/first"]
-tags: [""]
-# author: "Me"
-# author: ["Me", "You"] # multiple authors
+date: 2023-08-18
+tags: ["first"]
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-# description: "Desc Text."
-# canonicalURL: "https://tech.isiwari.com/ttt"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+description: "このサイトについて"
 cover:
     image: "banner.jpg" # image path/url
     alt: "カバー画像" # alt text
-#    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
-# editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
 ---
 
 お役立ちメモ共有サイトです。

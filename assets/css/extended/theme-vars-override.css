@@ -14,6 +14,10 @@
     font-family: 'M PLUS 1p', sans-serif;
 }
 
+.entry-header {
+    font-family: 'Zen Maru Gothic', serif;
+}
+
 .entry-cover img {
     border-radius: unset;
 }
