@@ -1,7 +1,7 @@
 ---
 title: "readme"
 date: 2030-09-15T11:30:03+00:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
 tags: [""]
 # author: "Me"
@@ -11,8 +11,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://tech.isiwari.com/ttt"
+# description: "Desc Text."
+# canonicalURL: "https://tech.isiwari.com/ttt"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -27,13 +27,13 @@ UseHugoToc: true
 cover:
     image: "banner.jpg" # image path/url
     alt: "カバー画像" # alt text
-#    caption: "<text>" # display caption under cover
+# caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+# editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 ---
 
 お役立ちメモ共有サイトです。
