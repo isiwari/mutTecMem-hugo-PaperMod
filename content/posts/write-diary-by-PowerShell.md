@@ -32,12 +32,12 @@ Write-Host "---`n$todayis（$d）`n$title1`n$content1`n---"
 
 - ここでは改行コードを簡素に \`n にしているが、必要に応じて適宜 \`r\`n にする。
 
-- [datetime]::Now
+- \[datetime\]::Now
 
 現在の日時を取得
 
 - ToString("ddd")
 
-[datetime]::Now で取得した現在の日時から、文字列に変換して表示する。  
+\[datetime\]::Now で取得した現在の日時から、文字列に変換して表示する。  
 文字列に変換して表示＝曜日になる。  
 "dddd" にすると、「火曜日」など曜日のフルネームになる。
