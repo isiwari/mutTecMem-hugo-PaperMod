@@ -24,6 +24,17 @@ $d=$todayisJapanYoubi.ToString("ddd")
 Write-Host "---`n$todayis（$d）`n$title1`n$content1`n---"
 ```
 
+## バッチにする
+
+スクリプトを、拡張子 **.ps1** で保存。
+
+例えばデータ名を ```note.ps1``` とした場合は、  
+PowerShellで、以下コマンドで実行。
+
+```powershell -ExecutionPolicy Bypass .\note.ps1```
+
+ps1は、utf8（BOM付き）にする。
+
 ## chips
 
 - Read-Host
