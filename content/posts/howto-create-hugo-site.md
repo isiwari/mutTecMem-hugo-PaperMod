@@ -31,13 +31,13 @@ hugo公式ドキュメントを参考に。
 GitHub Pages で公開するためには、hugoの基本構成から少しだけカスタマイズが必要らしい。  
 何から何まで参考になりました。感謝。
 
-## 参考になったサイト
+## 参考にさせていただいたサイト
 
 - https://ie.u-ryukyu.ac.jp/syskan/service/hugo/
 
 - https://github.com/adityatelange/hugo-PaperMod/wiki/Installation#sample-pagemd
 
-`hugo-PaperMod` なるテーマを使用。  
+取り敢えず、`hugo-PaperMod` なるテーマを使用。  
 Installationページを読みながら。
 
 - https://kattsun.dev/posts/how-to-readd-submodules/
